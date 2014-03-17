@@ -38,7 +38,8 @@
 |
 */
 
-$route['default_controller'] = "FAMController";
+$route['default_controller'] = "famController/view";
+$route['(:any)'] = 'famController/view/$1';
 
 $route['404_override'] = '';
 
