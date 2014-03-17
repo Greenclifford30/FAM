@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "FAMController";
+$route['default_controller'] = 'fam_controller';
 $route['404_override'] = '';
 
 
