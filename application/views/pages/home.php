@@ -1,8 +1,8 @@
 
-<div id="container">
+<div class = "row">
 	<h1>Welcome to CodeIgniter!</h1>
 
-	<div id="body">
+	<div class = "small -2 large - 4 columns">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
