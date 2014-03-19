@@ -15,7 +15,7 @@
 </head>
 <body>
 
-<div class="contain-to-grid sticky" data-options="sticky_on: large">
+
 <div class="off-canvas-wrap">
   <div class="inner-wrap">
     <nav class="tab-bar">
@@ -40,10 +40,7 @@
         <li><label>Tickets</label></li>
       </ul>
     </aside>
-
-   
-
-    <section class="main-section">
+ <section class="main-section">
       <!-- content goes here -->
     </section>
 
@@ -51,6 +48,7 @@
 
   </div>
 </div>
-</div>
 
+
+ 
  
