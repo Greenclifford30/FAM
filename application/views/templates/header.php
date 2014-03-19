@@ -29,7 +29,10 @@
 
     </nav>
 
-    <aside class="left-off-canvas-menu">
+
+ <section class="main-section">
+          
+     <aside class="left-off-canvas-menu">
       <ul class="off-canvas-list">
         <li><label>The Family</label></li>
         <li><a href="#">Person 1</a></li>
@@ -40,8 +43,6 @@
         <li><label>Tickets</label></li>
       </ul>
     </aside>
- <section class="main-section">
-      <!-- content goes here -->
     </section>
 
   <a class="exit-off-canvas"></a>
