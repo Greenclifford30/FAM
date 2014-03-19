@@ -15,24 +15,46 @@
 <body>
 
 <div class="contain-to-grid sticky" data-options="sticky_on: large">
-  <nav class="top-bar" data-topbar>
-  	<ul class = "title-area">
-    <li class = "name">
-    	<h1><a href="#">FAM</a></h1>
-    </li>
+<div class="off-canvas-wrap">
+  <div class="inner-wrap">
+    <nav class="tab-bar">
+      <section class="left-small">
+        <a class="left-off-canvas-toggle menu-icon" ><span></span></a>
+      </section>
 
-    	<section class = "top-bar-section">
-    		<ul class = "right">
-    			<li class =  "has-dropdown"
-    			<a href="#" FAMILY & MONEY </a>
-    			<ul class = "drowpdown"> <a href = "#"> Events </a>
-    			</ul>
-    			<ul class = "dropdown"><a href = "#"> Bio </a>
-    			</ul>
-    			<ul class = "dropdown"<a href = "#">Tickets </a> </ul>
-    	</li>
+      <section class="middle tab-bar-section">
+        <h1 class="title">Family & Money</h1>
+      </section>
 
-  </nav>
+      <section class="right-small">
+        <a class="right-off-canvas-toggle menu-icon" ><span></span></a>
+      </section>
+    </nav>
+
+    <aside class="left-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <li><label>Family</label></li>
+        <li><a href="#">Person 1</a></li>
+        ...
+      </ul>
+    </aside>
+
+    <aside class="right-off-canvas-menu">
+      <ul class="off-canvas-list">
+        <li><label>Users</label></li>
+        <li><a href="#">Hari Seldon</a></li>
+        ...
+      </ul>
+    </aside>
+
+    <section class="main-section">
+      <!-- content goes here -->
+    </section>
+
+  <a class="exit-off-canvas"></a>
+
+  </div>
+</div>
 </div>
 
  
