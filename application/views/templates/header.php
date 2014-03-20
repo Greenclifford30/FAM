@@ -19,7 +19,7 @@
 </head>
 <body>
 <div class = "row">
-	<div class = "small-12 column small-center ">
+	<div class = "small-6 column small-center ">
 	<? //echo img($header); ?>
 	<h1> Family & Money </h1>
 	</div>

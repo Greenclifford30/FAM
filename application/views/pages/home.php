@@ -34,25 +34,27 @@
 		<div class = "small 12 columns">
 		<ul class="example-orbit" data-orbit>
  		 <li>
-   			 <img src="../assets/img/examples/satelite-orbit.jpg" alt="slide 1" />
+   			<? echo img('img/FAM_logo.jpeg'); ?>
    		 <div class="orbit-caption">
   	    Caption One.
   	  </div>
  	 </li>
 	  <li>
-	    <img src="../assets/img/examples/andromeda-orbit.jpg" alt="slide 2" />
+	    <? echo img('img/FAM_logo.jpeg'); ?>
 	    <div class="orbit-caption">
 	      Caption Two.
 	    </div>
 	  </li>
 	  <li>
-	    <img src="../assets/img/examples/launch-orbit.jpg" alt="slide 3" />
+	    <? echo img('img/FAM_logo.jpeg'); ?>
 	    <div class="orbit-caption">
       Caption Three.
   	  </div>
 	  </li>
 		</ul>
 		</div>
+	</div>
+	<div class = "row" >
 	<div class = "small 12 columns">
 		<div class = "small 12 columns">
 		<p class = "hide-for-large-up">The corresponding controller for this page is found at:</p>
