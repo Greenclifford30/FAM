@@ -14,7 +14,10 @@
 	?>
 </head>
 <body>
-
+<div class = "row">
+	<div class = "small-12 small-centered column">
+	<? echo img('img/FAM_logo.jpeg'); ?>
+	</div>
 
 
 
