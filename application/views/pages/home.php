@@ -30,8 +30,8 @@
     <div class = "row" id = "background">
 		
 
-	<div class = "small - 12 columns" id = "wrapper">
-		<div class = "small 6 columns"
+	
+		<div class = "small 12 columns">
 		<ul class="example-orbit" data-orbit>
  		 <li>
    			 <img src="../assets/img/examples/satelite-orbit.jpg" alt="slide 1" />
@@ -53,7 +53,8 @@
 	  </li>
 		</ul>
 		</div>
-		<div class = "small 6 columns">
+	<div class = "small 12 columns">
+		<div class = "small 12 columns">
 		<p class = "hide-for-large-up">The corresponding controller for this page is found at:</p>
 		
 
