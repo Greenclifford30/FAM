@@ -11,13 +11,16 @@
 		echo script_tag('js/foundation/foundation.js');
 		echo script_tag('js/foundation/foundation.offcanvas.js');
 		echo script_tag('js/foundation/foundation.topbar.js');
+
+		$header = array('src' =>'img/FAM_logo.jpeg', 'alt' => 'FAM Logo', 'width' => '1385', 'height' => '150');
 	?>
 </head>
 <body>
 <div class = "row">
 	<div class = "small-12 small-centered column">
-	<? echo img('img/FAM_logo.jpeg'); ?>
+	<? echo img($header); ?>
 	</div>
+</div>
 
 
 
