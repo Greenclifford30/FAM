@@ -12,6 +12,7 @@
 		echo script_tag('js/foundation/foundation.js');
 		echo script_tag('js/foundation/foundation.offcanvas.js');
 		echo script_tag('js/foundation/foundation.topbar.js');
+		echo script_tag('js/foundation/foundation.orbit.js');
 
 		$header = array('src' =>'img/FAM_logo.jpeg', 'alt' => 'FAM Logo', 'width' => '1385px', 'height' => '150px');
 	?>
