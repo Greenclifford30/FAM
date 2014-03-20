@@ -4134,7 +4134,7 @@ dialog[open] {
   width: 100%;
   overflow-x: hidden; }
   .off-canvas-wrap.move-right, .off-canvas-wrap.move-left {
-    height: 100%; }
+    height: inherit; }
 
 .inner-wrap {
   -webkit-backface-visibility: hidden;

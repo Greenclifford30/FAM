@@ -16,14 +16,17 @@
     <aside class="left-off-canvas-menu">
       <ul class="off-canvas-list">
         <li><label>Family</label></li>
-        <li><a href="#">The Psychohistorians</a></li>
-        ...
+        <li><a href="#">Person 1</a></li>
+        <li><a href="#">Person 2</a></li>
+        <li><a href="#"> Person 3</a></li>
+        <li><a href ="#">Person 4</a></li>
+    
       </ul>
     </aside>
 
 
     <section class="main-section">
-    <div class = "row">
+    <div class = "row" id = "background">
 		<h1>Welcome to CodeIgniter!</h1>
 
 	<div class = "small -2 large - 4 columns">
@@ -39,8 +42,7 @@
 	</div>
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds</p>
-</div>
-      <!-- content goes here -->
+	</div>
     </section>
 
   <a class="exit-off-canvas"></a>
